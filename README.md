@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f26b4f1-dc86-4e39-a1aa-bd9cb7916816)
-# Five Beginner Friendly Pyhton Projects :snake::memo:
+![image](https://github.com/user-attachments/assets/9f26b4f1-dc86-4e39-a1aa-bd9cb7916816)# Five Beginner Friendly Pyhton Projects :snake::memo:
 
 A repository containing five beginner-level Python projects showcasing fundamental programming concepts and practical use cases. Each project is organized with clear code structure and documentation to enhance understanding and usability.
 
