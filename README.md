@@ -43,10 +43,3 @@ A repository containing five beginner-level Python projects showcasing fundament
    - **[Access Code](https://github.com/Jayantaxnath/Pyhton_projects_beginner/blob/main/Codes/snake_water_gun_game_05.py)**
 
 ---
-
-## How to Use 🛠️
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
