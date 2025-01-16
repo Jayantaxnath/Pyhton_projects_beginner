@@ -11,7 +11,7 @@ A repository containing five beginner-level Python projects showcasing fundament
    - **Features**:
      - Add income and expense entries :moneybag:.
      - Generate summaries of expenses :bar_chart:.
-     - Data stored in expenses.txt :floppy_disk:.
+     - Data stored in expenses.txt 📄
    - **[Access Code](https://github.com/Jayantaxnath/Pyhton_projects_beginner/blob/main/Codes/personal_expense_tracker_01.py)**
 
 ### 2. **[To-Do List](to_do_list_02.py) ✅**
@@ -19,7 +19,7 @@ A repository containing five beginner-level Python projects showcasing fundament
    - **Features**:
      - Add, edit, and delete tasks :pencil2:.
      - Mark tasks as completed :white_check_mark:.
-     - Data stored in task.json
+     - Data stored in task.json 📄
    - **[Access Code](https://github.com/Jayantaxnath/Pyhton_projects_beginner/blob/main/Codes/to_do_list_02.py)**
 
 ### 3. **[Quiz Application](quiz_application_03.py) 🧠**
@@ -34,7 +34,7 @@ A repository containing five beginner-level Python projects showcasing fundament
    - **Features**:
      - Add, view, and delete diary entries :memo:.
      - User-friendly interface for easy navigation :chart_with_upwards_trend:.
-     - Data stored in diary_entries.json
+     - Data stored in diary_entries.json 📄
    - **[Access Code](https://github.com/Jayantaxnath/Pyhton_projects_beginner/blob/main/Codes/personal_diary_04.py)**
 
 ### 5. **[Snake Water Gun Game](snake_water_gun_game_05.py) 🐍💧🔫**
