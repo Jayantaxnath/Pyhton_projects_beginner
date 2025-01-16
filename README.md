@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f26b4f1-dc86-4e39-a1aa-bd9cb7916816)# Five Beginner Friendly Pyhton Projects :snake::memo:
+# Five_Beginner_Friendly_Pyhton_Projects :snake::memo:
 
 A repository containing five beginner-level Python projects showcasing fundamental programming concepts and practical use cases. Each project is organized with clear code structure and documentation to enhance understanding and usability.
 
@@ -11,7 +11,7 @@ A repository containing five beginner-level Python projects showcasing fundament
    - **Features**:
      - Add income and expense entries :moneybag:.
      - Generate summaries of expenses :bar_chart:.
-     - Data persistence using local storage :floppy_disk:.
+     - Data stored in expenses.txt :floppy_disk:.
    - **[Access Code](https://github.com/Jayantaxnath/Pyhton_projects_beginner/blob/main/Codes/personal_expense_tracker_01.py)**
 
 ### 2. **[To-Do List](to_do_list_02.py) ✅**
