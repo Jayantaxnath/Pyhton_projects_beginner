@@ -1,4 +1,4 @@
-# Five_Pyhton_Projects_Beginner_Friendly :snake::memo:
+# Five-Pyhton-Projects :snake::memo:
 
 A repository containing five beginner-level Python projects showcasing fundamental programming concepts and practical use cases. Each project is organized with clear code structure and documentation to enhance understanding and usability.
 
