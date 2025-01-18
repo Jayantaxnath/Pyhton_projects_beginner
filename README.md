@@ -2,7 +2,7 @@
 
 A repository containing five beginner-level Python projects showcasing fundamental programming concepts and practical use cases. Each project is organized with clear code structure and documentation to enhance understanding and usability.
 
-![image (1)](https://github.com/user-attachments/assets/5ccecb27-48e5-42e8-9312-78b23c8a53f6)
+![Tosca Black Gradient Abstract Project Presentation ](https://github.com/user-attachments/assets/e7d851c2-5ecd-4453-ab86-c9361dfbfca5)
 
 ---
 
